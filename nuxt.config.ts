@@ -2,5 +2,5 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
 
-  modules: ["nuxt-primevue"],
+  modules: ["@nuxtjs/tailwindcss"],
 });

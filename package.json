@@ -13,9 +13,9 @@
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^0.1.1",
+    "@nuxtjs/tailwindcss": "^6.10.1",
     "eslint": "^8.28.0",
     "nuxt": "^3.6.2",
-    "nuxt-primevue": "^0.2.2",
     "typescript": "^4.9.3"
   }
 }
