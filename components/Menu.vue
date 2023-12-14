@@ -1,6 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
+  Test
   <nav
     class="block w-full py-2 mx-auto bg-white border shadow-md border-white/80 bg-opacity-80 backdrop-blur-2xl backdrop-saturate-200 lg:py-4"
   >
